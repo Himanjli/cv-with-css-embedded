@@ -1,0 +1,197 @@
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.android-image{
+    width: 27%;
+    height: 30%;
+    float: right;
+    
+}
+
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40515E;
+}
+
+.bottom{
+    background-color: yellow;
+    
+    width: 200px;
+    height: 200px;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    top : 500px;
+}
+
+.bottom-container{
+    padding: 30px;
+    background-color: #66BFBF;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+.contact-msg{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.copyright{
+    font-size: 0.75rem;
+    color: #eaf6f6;
+    margin: auto;
+    padding: 20px 0;
+    
+}
+
+.developer-image{
+    width:30%;
+    height : 30%;
+    margin-right: 20px;
+    float: left;
+    
+}
+
+h1{
+    margin: 70px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.375rem;
+    color: #66BFBF;
+}
+/* 100% = 16px and I wanted to make the text 70px, and the size should be dynamic that's why giving it in percentage*/
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom:10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr{
+    margin-top:50px;
+    margin-bottom: 50px;
+
+    border:dotted 6px;
+    border-top: none;
+   
+    color :rgb(218, 231, 231);
+    width: 5%;
+
+    border-width: 4%;
+}
+
+.intro{
+    margin: auto;
+    width: 30%;
+}
+
+.middle{
+    background-color: red;
+   
+    width: 200px;
+    height: 200px;
+    
+}
+
+.middle-container{
+    margin: 100px 0px;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 140%;
+    line-height: 2;
+}
+
+.skill-row{
+
+    width: 75%;
+    margin: 150px auto;
+    text-align: left;
+}
+
+.top{
+    padding-top: 150px;
+    background-color:#E4F9F5;
+  
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 150px
+}
+
+.skills{
+    margin: 100px 0;
+}
+
+
+.BUTTON_OWP {
+    background: #11999A;
+    background-image: -webkit-linear-gradient(top, #11999A, #6ED2B8);
+    background-image: -moz-linear-gradient(top, #11999A, #6ED2B8);
+    background-image: -ms-linear-gradient(top, #11999A, #6ED2B8);
+    background-image: -o-linear-gradient(top, #11999A, #6ED2B8);
+    background-image: linear-gradient(to bottom, #11999A, #6ED2B8);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    box-shadow: 0px 1px 12px 0px #000000;
+    -webkit-box-shadow: 0px 1px 12px 0px #000000;
+    -moz-box-shadow: 0px 1px 12px 0px #000000;
+    text-shadow: 1px 1px 20px #0C182A;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 30px;
+    }
+    
+.BUTTON_OWP:hover {
+    border: solid #337FED 1px;
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #78D48B);
+    background-image: -moz-linear-gradient(top, #30E3CB, #78D48B);
+    background-image: -ms-linear-gradient(top, #30E3CB, #78D48B);
+    background-image: -o-linear-gradient(top, #30E3CB, #78D48B);
+    background-image: linear-gradient(to bottom, #30E3CB, #78D48B);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
+    
+        
+
+
+
+
+
+
